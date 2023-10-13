@@ -10,6 +10,9 @@ MIT
 @angular/router
 MIT
 
+ngx-scanner-qrcode
+LGPL-2.1+
+
 rxjs
 Apache-2.0
                                Apache License
